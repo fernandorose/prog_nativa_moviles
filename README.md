@@ -6,4 +6,4 @@
   👨‍💼 Rodriguez Segura Fernando - <b>20070501</b>
 </p>
 
-> **❗📄 La documentacion esta en la carpeta \***docs**\***
+> **❗📄 La documentacion esta en la carpeta ***docs*****
