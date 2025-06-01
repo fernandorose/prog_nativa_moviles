@@ -1,4 +1,4 @@
-<div align=center>
+<div align="center">
   Tareas - Programación nativa para moviles
 </div>
 
