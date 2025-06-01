@@ -1,4 +1,6 @@
-# Tareas - Programación nativa para moviles
+<div align=center>
+  Tareas - Programación nativa para moviles
+</div>
 
 Rodriguez Segura Fernando
 
