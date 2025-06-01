@@ -2,4 +2,6 @@
   👨‍💻🔧 Programación nativa para moviles
 </h1>
 
-👨‍💼 Rodriguez Segura Fernando - 20070501
+<p align="center">
+  👨‍💼 Rodriguez Segura Fernando - 20070501
+</p>
