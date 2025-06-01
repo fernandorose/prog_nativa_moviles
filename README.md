@@ -3,5 +3,7 @@
 </h1>
 
 <p align="center">
-  👨‍💼 Rodriguez Segura Fernando - 20070501
+  👨‍💼 Rodriguez Segura Fernando - <b>20070501</b>
 </p>
+
+> La documentacion esta en la carpeta docs
