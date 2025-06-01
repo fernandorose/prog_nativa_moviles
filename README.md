@@ -6,7 +6,7 @@
   👨‍💼 Rodriguez Segura Fernando - <b>20070501</b>
 </p>
 
-> **❗📄 La documentacion esta en la carpeta ***docs*****
+> **❗📄 La documentacion de cada tarea esta en la carpeta ***docs*****
 
 Este repositorio contiene todas las tareas desarrolladas durante el semestre para la materia de desarrollo de aplicaciones móviles con **Kotlin** y **Android Studio**.
 
@@ -22,7 +22,7 @@ Cada carpeta incluye una aplicación diferente, implementando conceptos como int
 ---
 
 ## 📁 Estructura
-Cada tarea está organizada por carpeta con su respectiva descripción y código fuente.
+Cada tarea está organizada por carpeta con su respectivo código fuente.
 
 ---
 
